@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class WelcomeActivity extends AppCompatActivity {
+class WelcomeSlide extends AppCompatActivity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
